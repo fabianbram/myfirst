@@ -1,0 +1,7 @@
+# Ignore these files #
+# All files ended after *. #
+###################
+*.class
+*.dll
+*.exe
+*.csv
